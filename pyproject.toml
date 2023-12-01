@@ -11,6 +11,8 @@ vecs = "^0.3.0"
 matplotlib = "^3.7.1"
 requests = "2.25.1"
 supabase-py = "^0.0.2"
+uvicorn = "^0.24.0"
+fastapi = "^0.104.1"
 
 
 [tool.poetry.dev-dependencies]
